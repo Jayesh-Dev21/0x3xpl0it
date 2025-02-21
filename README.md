@@ -1,0 +1,2 @@
+# wizard
+My personal website
